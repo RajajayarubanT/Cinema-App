@@ -52,9 +52,9 @@ body{
     border-radius: 40px;
     box-shadow: 0 0 0.1em 0.25em hsl(44, 20%, 25%), 0 0 0 0.4em hsl(44, 30%, 85%);
     box-sizing: border-box;
-    /* transform: scale3d(1.1, 1.1, 1); */
-    /* opacity: 0; */
-    /* animation: appear 1s cubic-bezier(0.15, 0, 0.333, 1) forwards; */
+    transform: scale3d(1.1, 1.1, 1);
+    opacity: 0;
+    animation: appear 1s cubic-bezier(0.15, 0, 0.333, 1) forwards;
     webkit-backface-visibility: hidden;
     aspect-ratio: 37/76;
     position: relative;
